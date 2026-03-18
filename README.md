@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**tejaspatil005/tejaspatil005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🔭 I’m currently working on
 Building data-driven projects focused on analyzing real-world datasets, generating insights, and creating dashboards to support business decision-making.
 
